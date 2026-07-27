@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "tejapi": {
+      "type": "http",
+      "url": "https://mcp.tej.com.tw/tejapi/mcp",
+      "_comment": "示意 URL，依實際 TEJ MCP 部署填入"
+    }
+  }
+}
