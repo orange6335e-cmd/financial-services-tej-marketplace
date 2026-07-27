@@ -1,0 +1,13 @@
+{
+  "name": "financial-services-tej",
+  "owner": { "name": "TEJ" },
+  "metadata": {
+    "description": "TEJ 台股投顧 AI agent marketplace（改編自 Anthropic financial-services，資料源換成 TEJ MCP）",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    { "name": "earnings-reviewer-tej", "source": "./plugins/agent-plugins/earnings-reviewer-tej", "description": "報告層：單一標的 → 13 區塊台股投顧報告＋AI house 評等/目標價" },
+    { "name": "market-researcher-tej", "source": "./plugins/agent-plugins/market-researcher-tej", "description": "發現層：產業/主題 → 產業概況、競爭格局、可比公司、候選標的清單" },
+    { "name": "meeting-prep-tej", "source": "./plugins/agent-plugins/meeting-prep-tej", "description": "速覽層：個股/投組 → 1-2 頁簡易紀錄" }
+  ]
+}
