@@ -1,0 +1,6 @@
+{
+  "name": "earnings-reviewer-tej",
+  "version": "0.1.0-tej",
+  "description": "改編自 Anthropic financial-services 的 earnings-reviewer，資料源換成 TEJ MCP，報告骨架換成台股投顧格式。",
+  "author": { "name": "TEJ (adapted from Anthropic FSI)" }
+}
