@@ -1,0 +1,6 @@
+{
+  "name": "market-researcher-tej",
+  "version": "0.1.0-tej",
+  "description": "改編自 market-researcher，TEJ MCP 移植版。發現層：產業/主題 → 可比公司與候選標的清單。",
+  "author": { "name": "TEJ (adapted from Anthropic FSI)" }
+}
