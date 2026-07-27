@@ -1,0 +1,6 @@
+{
+  "name": "meeting-prep-tej",
+  "version": "0.1.0-tej",
+  "description": "改編自 meeting-prep，TEJ MCP 移植版。速覽層：個股/投組 → 1-2 頁個股簡易紀錄。",
+  "author": { "name": "TEJ (adapted from Anthropic FSI)" }
+}
